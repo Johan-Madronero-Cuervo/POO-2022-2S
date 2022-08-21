@@ -7,7 +7,6 @@
 
 import java.util.Scanner;
 
-// Recuerda cambiar el metodo
 public class PropuestosCapitulo3
 {
 	public static void main(String[] args) {
