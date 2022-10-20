@@ -6,7 +6,6 @@ public class ApartamentoFamiliar extends Apartamento {
 
     public ApartamentoFamiliar(int identificadorInmobiliario, int área, String dirección, int númeroHabitaciones,
             int númeroBaños, int valorAdministración) {
-        // Invoca al constructor de la clase padre
         super(identificadorInmobiliario, área, dirección, númeroHabitaciones, númeroBaños);
         this.valorAdministración = valorAdministración;
     }
