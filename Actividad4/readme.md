@@ -4,4 +4,4 @@
 
 - Johan Madroñero Cuervo
 - Esteban
-- J
+- Juan David Cardenas Jimenez
